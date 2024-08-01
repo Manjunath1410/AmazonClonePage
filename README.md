@@ -3,8 +3,8 @@
 # Description
 This clone project aims to replicate the design and functionality of the original Amazon website. It is built using HTML5, CSS3 and JavaScript.
 # Features
-+**Responsive design**: Ensures compatibility across various devices and screen sizes.>
-**Product display**: Showcases Amazon products with images and descriptions.
++ **Responsive design**: Ensures compatibility across various devices and screen sizes.>
++ **Product display**: Showcases Amazon products with images and descriptions.
 **Cart Page process**: Simulates the Cart Page process similar to the original website.
 **Sign In Page**:Enables Us to Login to the Amazon Website.
 **Sign Up Page**:Enables the Create New Account Functionality of the Amazon website.
